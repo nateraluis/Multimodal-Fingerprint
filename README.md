@@ -1,8 +1,8 @@
-# Extracting the multimodal fingerprint of urban transportationnetworks
+# Extracting the multimodal fingerprint of urban transportation networks
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nateraluis/Multimodal-Fingerprint/master)
 
-This repository contains the code to replicate the algorithms and measures in the paper Natera, L.G., Battiston, F., Iñiguez, G., and Szell, M. *"Extracting the multimodal fingerprint of urban transportationnetworks"*, 2020.
+This repository contains the code to replicate the algorithms and measures in the paper Natera, L.G., Battiston, F., Iñiguez, G., and Szell, M. *"Extracting the multimodal fingerprint of urban transportation networks"*, 2020.
 
 ## Guide
 1. ```01_Multiplex.ipynb``` --> Takes the multilayer networks for the fifteen different cities and calculates their corresponding overlap census.
